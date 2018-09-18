@@ -10,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Hendrik von Bongartz # add your name
-author-img: david-freeman.jpg # add your photo
+author-img:  # add your photo
 about-author: Ich bin ein Informatikstudent und teste Jekyll mit GitHub Pages.. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
