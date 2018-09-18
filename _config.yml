@@ -6,17 +6,17 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "https://hvb0.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+#site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Hendrik von Bongartz # add your name
 author-img:  # add your photo
 about-author: Ich bin ein Informatikstudent und teste Jekyll mit GitHub Pages.. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github:  # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+#social-twitter: # add your Twitter handle
+#social-facebook: # add your Facebook handle
+#social-github:  # add your Github handle
+#social-linkedin: # add your Linkedin handle
+#social-email: # add your Email address
 
 # Disqus
 discus-identifier: # add your discus identifier
